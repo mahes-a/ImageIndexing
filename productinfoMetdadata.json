@@ -1,0 +1,22 @@
+[
+  {
+    "image_path": "https://Your-Storage-Account.blob.core.windows.net/imagesfictioncycles/1.jfif?sv=your SAS Key",
+    "description": "Description of your Image of the product"
+  },
+  {
+    "image_path": "https://Your-Storage-Account.blob.core.windows.net/imagesfictioncycles/2.jfif?sv=your SAS Key",
+    "description": "Description of your Image of the product"
+  },
+  {
+    "image_path": "https://Your-Storage-Account.blob.core.windows.net/imagesfictioncycles/3.jfif?sv=your SAS Key",
+    "description": "Description of your Image of the product"
+  },
+  {
+    "image_path": "https://Your-Storage-Account.blob.core.windows.net/imagesfictioncycles/4.jfif?sv=your SAS Key",
+    "description": "Description of your Image of the product"
+  },
+  {
+    "image_path": "https://Your-Storage-Account.blob.core.windows.net/imagesfictioncycles/5.jfif?sv=your SAS Key",
+    "description": "Description of your Image of the product"
+  }
+]
