@@ -9,7 +9,7 @@
 
 #### Pre-Reqs & Steps
 - Upload the images in to stoarge account container
-- Storage Account Container with Metdata files , Refer to the productinfoMetdadata.josn file for the template for the Metadata file, the image paths are stored in the metadata files
+- Storage Account Container with Metdata files , Refer to the productinfoMetdadata.json file for the template for the Metadata file, the image paths are stored in the metadata files
 - Clone the Repo , configure the .env file from .env-sample file
 
 
